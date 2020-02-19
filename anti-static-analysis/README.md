@@ -3,7 +3,7 @@
 |**ID**|**M9002**|
 
 # Anti-Static Analysis
-Behaviors and code characteristics that prevent static analysis or make it more difficult. Simple static analysis identifies features such as embedded strings, header information, hash values, and file metadata (e.g., creation date). More involved static analysis involves the disassembly of the binary code.
+Behaviors and code characteristics XX that prevent static analysis or make it more difficult. Simple static analysis identifies features such as embedded strings, header information, hash values, and file metadata (e.g., creation date). More involved static analysis involves the disassembly of the binary code.
 
 Two primary resources for anti-static analysis behaviors are [[1]](#1) and [[2]](#2).
 
