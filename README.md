@@ -5,6 +5,8 @@ Check out the [MBC presentation](https://www.youtube.com/watch?v=KY8Ty-0sdVU) gi
 
 To join the **MBC mailing list**, please send a request to mbc@mitre.org.
 
+## MBC-core contains objectives and behaviors not captured in ATT&CK and objectives and behaviors defined in ATT&CK that have been enhanced with malware-specific content. ##
+
 ### Objectives ###
 As shown below, malware objectives are based on [ATT&CK Tactics](https://attack.mitre.org/tactics/enterprise/), and are tailored for the malware analysis use case of characterizing malware based on known objectives and behaviors. Two malware analysis-specific objectives not in ATT&CK are also defined (ANTI-BEHAVIORAL ANALYSIS and ANTI-STATIC ANALYSIS). 
 
