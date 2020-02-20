@@ -6,7 +6,7 @@ Check out the [MBC presentation](https://www.youtube.com/watch?v=KY8Ty-0sdVU) gi
 To join the **MBC mailing list**, please send a request to mbc@mitre.org.
 
 ### MBC-core is a reduced set of objectives and behaviors ###
-MBC-core contain objectives and behaviors not captured in ATT&CK and those defined in ATT&CK that have been enhanced with malware-specific content. ###
+MBC-core contain objectives and behaviors not captured in ATT&CK and those defined in ATT&CK that have been enhanced with malware-specific content.
 
 #### <a name="ids"></a>Identifiers ####
 The first letter of a behavior identifier indicates whether the behavior enhances an ATT&CK technique with malware-specific details ("E"; e.g. E1234) or whether it is a newly defined behavior in MBC ("M"; e.g. M1234). When two or more MBC behaviors refine the same ATT&CK technique, each is given an MBC identifier and each references the ATT&CK identifier. When a new ATT&CK technique is defined *after* an MBC behavior has been defined, the preexisting MBC identifier is preserved and the new ATT&CK identifier is referenced. 
