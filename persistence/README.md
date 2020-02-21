@@ -8,7 +8,6 @@ Malware aims to remain on a system regardless of system events.
 * **Backdoor** [M0037](https://github.com/MBCProject/mbc-markdown/blob/master/persistence/backdoor.md)
 * **Boot Sector Modification** [M0028](https://github.com/MBCProject/mbc-markdown/blob/master/defense-evasion/boot-sector-mod.md)
 * **Component Firmware** [E1109](https://github.com/MBCProject/mbc-markdown/blob/master/persistence/component-firmware.md)
-)
 * **Configuration Modification** [E1478](https://github.com/MBCProject/mbc-markdown/blob/master/defense-evasion/config-mod.md)
 * **Hidden Files and Directories** [E1158](https://github.com/MBCProject/mbc-markdown/blob/master/defense-evasion/hidden-files.md)
 * **Hooking** [E1179](https://github.com/MBCProject/mbc-markdown/tree/master/credential-access/hooking.md)
