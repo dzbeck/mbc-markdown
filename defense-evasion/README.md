@@ -7,6 +7,7 @@ Behaviors that evade detection or avoid other defenses.
 
 * **Alternative Installation Location** [M0027](https://github.com/MBCProject/mbc-markdown/blob/master/defense-evasion/alter-install-location.md)
 * **Boot Sector Modification** [M0028](https://github.com/MBCProject/mbc-markdown/blob/master/defense-evasion/boot-sector-mod.md)
+* **Component Firmware** [E1109](https://github.com/MBCProject/mbc-markdown/blob/master/persistence/component-firmware.md)
 * **Configuration Modification** [E1478](https://github.com/MBCProject/mbc-markdown/blob/master/defense-evasion/config-mod.md)
 * **Disabling Security Tools** [E1089](https://github.com/MBCProject/mbc-markdown/blob/master/defense-evasion/disable-security-tools.md)
 * **Execution Guardrails** [E1480](https://github.com/MBCProject/mbc-markdown/blob/master/anti-behavioral-analysis/execution-guardrails.md)
