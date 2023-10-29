@@ -1,9 +1,8 @@
 cff-version: 1.2.0
 title: "Malware Behavior Catalog"
 message: "If you use the Malware Behavior Catalog, please cite it as below."
-type: generic
+type: database
 authors:
-  - given-names: MITRE
   - family-names: The MITRE Corp.
 url: "https://github.com/MBCProject/mbc-markdown"
 repository-code: "https://github.com/MBCProject/mbc-markdown"
